@@ -1,0 +1,25 @@
+
+param time :
+A   B    C    D   E:=
+70  40   150  30  100
+80  100  90   40  70
+140 50   40   90  100;
+
+param cost:
+M1 M2 M3:=
+20 25 30
+40 30 45
+35 20 40
+45 50 25;
+
+param probab:=
+0.3
+0.2
+0.2
+0.3;
+
+param prod:=
+60
+120;
+
+# koszt za dodatkowe godziny?
